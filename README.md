@@ -1,9 +1,9 @@
 # Employee-Presence-Insights
-1. Project Title / Headline
+##1. Project Title / Headline
    HR Analytics: Employee Presence Insights Dashboard A dynamic, interactive data visualization tool built to analyze employee data
-2. Short Description / Purpose
+##2. Short Description / Purpose
    This project leverages Power BI to provide actionable insights into employee presence and attendance patterns. By integrating data from HRMS, biometric systems, and leave records, the solution enables HR teams and leadership to monitor workforce availability, identify absenteeism trends, and make data-driven decisions for workforce planning.
-3. Tech Stack
+##3. Tech Stack
     The dashboard was built using the following tools and technologies:
 • 📊 Power BI Desktop – Main data visualization platform used for report creation.
 • 📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.
