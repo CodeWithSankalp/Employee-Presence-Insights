@@ -24,5 +24,5 @@
    Enhanced transparency and accountability in employee presence tracking.
    Empowered leadership with data-driven HR insights.
 📸 Dashboard Preview:
-   
+   https://github.com/CodeWithSankalp/Employee-Presence-Insights/blob/main/Employee%20presence%20Insights.png
 
